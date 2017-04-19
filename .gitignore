@@ -4,7 +4,10 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+
+# Opciones para pruebas 
 /Assets/_TestBox/
+/Assets/_TestBox.meta
 
 # Visual Studio 2015 cache directory
 /.vs/
