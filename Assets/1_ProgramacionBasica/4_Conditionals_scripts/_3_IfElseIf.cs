@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class _3_IfElseIf : MonoBehaviour {
 
+
+    #pragma warning disable 0162
+
 	// Use this for initialization
 	void Start () 
 	{
@@ -21,5 +24,9 @@ public class _3_IfElseIf : MonoBehaviour {
 			Debug.Log ("CINCO NO ES NI MAYOR NI MENOR QUE SIETE");
 		}
 	}
+
+    #pragma warning restore 0162
+
+
 
 }

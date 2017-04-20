@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class _1_IfNumbers : MonoBehaviour {
 
+
+    #pragma warning disable 0162
+
 	// Use this for initialization
 	void Start () 
 	{
@@ -17,5 +20,7 @@ public class _1_IfNumbers : MonoBehaviour {
 		}
 
 	}
+
+    #pragma warning restore 0162
 
 }
